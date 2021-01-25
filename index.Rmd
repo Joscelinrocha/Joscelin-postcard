@@ -1,5 +1,5 @@
 ---
-title: "iyo-distill"
+title: "Joscelin's postcard"
 description: |
   Welcome to the website. I hope you enjoy it! I cannot make it work :( 
 site: distill::distill_website
