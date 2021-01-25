@@ -2,11 +2,10 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Joscelin Rocha Hidalgo",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-01-25T14:34:07-05:00"
+      "contents": "\n\n          \n          \n          iyo-distill\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Joscelin Rocha Hidalgo\n          \n          \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-01-25T14:47:27-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +13,7 @@
       "description": "Welcome to the website. I hope you enjoy it! I cannot make it work :( \n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-01-25T14:44:06-05:00"
+      "last_modified": "2021-01-25T14:47:34-05:00"
     }
   ],
   "collections": []
